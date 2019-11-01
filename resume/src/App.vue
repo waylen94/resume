@@ -4,7 +4,7 @@
 <!-- Side Bar for cotraction -->
 <div class="sidenav">
          <div class="login-main-text">
-                <img class="img-circle img-responsive" src="http://api.adorable.io/avatars/300/abott@adorable.png">
+                <img class="img-circle img-responsive weilun_img" src="@/assets/resume_image/Weilun_image.jpg">
                     <div>
                         <h2> <span itemprop="name">Weilun Liu</span></h2>
 
@@ -12,8 +12,7 @@
                         <li><a href="https://github.com/waylen94" class="icoGitbub" title="Github"><i class="fa fa-github"></i></a></li>
                         <li><a href="#" class="icoFacebook" title="Facebook"><i class="fa fa-facebook"></i></a></li>
 
-                        <li><a href="#" class="icoGoogle" title="Google +"><i class="fa fa-google-plus"></i></a></li>
-                        <li><a href="#" class="icoLinkedin" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
+                        <li><a href="linkedin.com/in/玮伦-刘-23343418b" class="icoLinkedin" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
                         <li><a href="https://waylen94.github.io/Diary/" class="icoDiary" title="Diary"><i class="fa fa-calendar"></i></a></li>
 
                     </ul>
@@ -61,7 +60,7 @@
 
                     <div class="row">
                         <div class="col-md-6 how-img">
-                            <img src="https://image.ibb.co/dDW27U/Work_Section2_freelance_img1.png" class="rounded-circle img-fluid" alt=""/>
+                            <img src="@/assets/resume_image/Benchmark_gif.gif" class="img-fluid" alt=""/>
                         </div>
                         <div class="col-md-6">
                             <h4>Find rewarding projects</h4>
@@ -98,20 +97,53 @@
                         </div>
                     </div>
 
-                    <div class="row">
-                        <div class="col-md-6">
-                            <h4>Get paid on time</h4>
-                                        <h4 class="subheading">All projects include GetLance Payment Protection — helping ensure that you get paid for all work successfully completed through the freelancing website.</h4>
-                                        <p class="text-muted">All invoices and payments happen through GetLance. Count on a simple and streamlined process.
-                                            Hourly and fixed-price projects. For hourly work, submit timesheets through GetLance. For fixed-price jobs, set milestones and funds are released via GetLance escrow features.
-                                            Multiple payment options. Choose a payment method that works best for you, from direct deposit or PayPal to wire transfer and more.</p>
-                        </div>
-                        <div class="col-md-6 how-img">
-                            <img src="https://image.ibb.co/gQ9iE9/Work_Section2_freelance_img4.png" class="rounded-circle img-fluid" alt=""/>
-                        </div>
-                    </div>
+
 
                 </div>
+
+
+   <div class="Evaluation-section">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-sm-3">
+                    <div class="box">
+                        <img src="https://dummyimage.com/100/000/fff.png">
+                        <h3>Title</h3>
+                        <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+                        The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,
+                        as opposed to using 'Content here, content here', making it look like readable English.</p>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="box">
+                        <img src="https://dummyimage.com/100/000/fff.png">
+                        <h3>Title</h3>
+                        <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+                        The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,
+                        as opposed to using 'Content here, content here', making it look like readable English.</p>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="box">
+                        <img src="https://dummyimage.com/100/000/fff.png">
+                        <h3>Title</h3>
+                        <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+                        The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,
+                        as opposed to using 'Content here, content here', making it look like readable English.</p>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="box">
+                        <img src="https://dummyimage.com/100/000/fff.png">
+                        <h3>Title</h3>
+                        <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
+                        The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,
+                        as opposed to using 'Content here, content here', making it look like readable English.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
       </div>
   </div>
 
@@ -120,7 +152,7 @@
 
 <script>
 export default {
-  name: 'App'
+  name: 'App',
 }
 </script>
 
@@ -156,7 +188,8 @@ body > .container { margin-top: 15px;}
     text-align: center;
 }
 .how-img img{
-    width: 40%;
+    width: 100%;
+    height: 100%;
 }
 
 
@@ -170,7 +203,8 @@ body > .container { margin-top: 15px;}
     height: 100%;
     background-color: #000;
     overflow-x: hidden;
-    padding-top: 20px;
+    padding-top: 15px;
+    overflow-y: hidden;
 }
 
 
@@ -204,19 +238,11 @@ body > .container { margin-top: 15px;}
         top: 0;
         left: 0;
     }
-
-    .login-form{
-        margin-top: 80%;
-    }
-
-    .register-form{
-        margin-top: 20%;
-    }
 }
 
 
 .login-main-text{
-    margin-top: 20%;
+    margin-top: 5%;
     padding: 60px;
     color: #fff;
 }
@@ -311,6 +337,34 @@ a.socialIcon:hover, .socialHoverClass {
   -o-transition: all 0.8s;
   -ms-transition: all 0.8s;
   transition: all 0.8s;
+}
+
+.Evaluation-section{
+.box {
+    width: 100%;
+    background-color: white;
+    text-align: center;
+    font-family: 'Chilanka', cursive;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.box:hover {
+    box-shadow: 10px 10px 5px #aaaaaa;
+}
+
+.box img {
+    border-radius: 50%;
+    box-shadow: 10px 10px 5px #aaaaaa;
+}
+
+.box h3 {
+    margin-top: 10px;
+}
+
+.box p {
+    text-align: justify;
+}
 }
 
 
