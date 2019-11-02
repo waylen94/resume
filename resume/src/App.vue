@@ -60,7 +60,7 @@
 
                     <div class="row">
                         <div class="col-md-6 how-img">
-                            <img src="@/assets/resume_image/Benchmark_png.png" class="img-fluid" alt=""/>
+                            <img src="@/assets/resume_image/Benchmark_png.png" class="img-fluid img-benchmark" alt=""/>
                         </div>
                         <div class="col-md-6">
                             <h4>Find rewarding projects</h4>
@@ -80,13 +80,13 @@
                                             Do substantial work with top clients. GetLance pricing encourages freelancers to use GetLance for repeat relationships with their clients.</p>
                         </div>
                         <div class="col-md-6 how-img">
-                            <img src="@/assets/resume_image/Vis_interface_png.png" class="img-fluid" alt=""/>
+                            <img src="@/assets/resume_image/Vis_interface_png.png" class="img-vis img-fluid" alt=""/>
                         </div>
                     </div>
 
                     <div class="row">
                         <div class="col-md-6 how-img">
-                             <img src="@/assets/resume_image/Cartoon_Application.png" class="img-fluid" alt=""/>
+                             <img src="@/assets/resume_image/Cartoon_Application.png" class="img-cartoon img-fluid" alt=""/>
                         </div>
                         <div class="col-md-6">
                             <h4>Work efficiently, effectively.</h4>
@@ -108,7 +108,7 @@
                 <div class="col-sm-3">
                     <div class="box">
                         <img src="@/assets/resume_image/Weilun_image.jpg" class="img-eva">
-                        <h3>Title</h3>
+                        <h3>Prof. Dan Kim</h3>
                         <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
                         The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,
                         as opposed to using 'Content here, content here', making it look like readable English.</p>
@@ -117,7 +117,7 @@
                 <div class="col-sm-3">
                     <div class="box">
                         <img src="@/assets/resume_image/Weilun_image.jpg" class="img-eva">
-                        <h3>Title</h3>
+                        <h3>Prof. Sara Dolnicar</h3>
                         <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
                         The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,
                         as opposed to using 'Content here, content here', making it look like readable English.</p>
@@ -126,7 +126,7 @@
                 <div class="col-sm-3">
                     <div class="box">
                         <img src="@/assets/resume_image/Weilun_image.jpg" class="img-eva">
-                        <h3>Title</h3>
+                        <h3>Dr. Mengmeng Ge</h3>
                         <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
                         The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,
                         as opposed to using 'Content here, content here', making it look like readable English.</p>
@@ -135,7 +135,7 @@
                 <div class="col-sm-3">
                     <div class="box">
                         <img src="@/assets/resume_image/Weilun_image.jpg" class="img-eva">
-                        <h3>Title</h3>
+                        <h3>Mr. Zongyao Ying</h3>
                         <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
                         The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,
                         as opposed to using 'Content here, content here', making it look like readable English.</p>
@@ -144,6 +144,14 @@
             </div>
         </div>
         </div>
+
+
+              <div class="modal-footer">
+        <button type="button" class="btn btn-primary">Save changes</button>
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+
+
       </div>
   </div>
 
@@ -186,10 +194,19 @@ body > .container { margin-top: 15px;}
 .how-img
 {
     text-align: center;
-}
-.how-img img{
-    width: 100%;
-    height: 100%;
+    img{
+      width: 90%;
+      height: 100%;
+    }
+
+    .img-benchmark{
+      width: 100%;
+    }
+
+    .img-vis{
+      width: 75%;
+    }
+
 }
 
 
