@@ -60,7 +60,7 @@
 
                     <div class="row">
                         <div class="col-md-6 how-img">
-                            <img src="@/assets/resume_image/Benchmark_gif.gif" class="img-fluid" alt=""/>
+                            <img src="@/assets/resume_image/Benchmark_png.png" class="img-fluid" alt=""/>
                         </div>
                         <div class="col-md-6">
                             <h4>Find rewarding projects</h4>
@@ -80,13 +80,13 @@
                                             Do substantial work with top clients. GetLance pricing encourages freelancers to use GetLance for repeat relationships with their clients.</p>
                         </div>
                         <div class="col-md-6 how-img">
-                            <img src="https://image.ibb.co/cHgKnU/Work_Section2_freelance_img2.png" class="rounded-circle img-fluid" alt=""/>
+                            <img src="@/assets/resume_image/Vis_interface_png.png" class="img-fluid" alt=""/>
                         </div>
                     </div>
 
                     <div class="row">
                         <div class="col-md-6 how-img">
-                             <img src="https://image.ibb.co/ctSLu9/Work_Section2_freelance_img3.png" class="rounded-circle img-fluid" alt=""/>
+                             <img src="@/assets/resume_image/Cartoon_Application.png" class="img-fluid" alt=""/>
                         </div>
                         <div class="col-md-6">
                             <h4>Work efficiently, effectively.</h4>
@@ -107,7 +107,7 @@
             <div class="row">
                 <div class="col-sm-3">
                     <div class="box">
-                        <img src="https://dummyimage.com/100/000/fff.png">
+                        <img src="@/assets/resume_image/Weilun_image.jpg" class="img-eva">
                         <h3>Title</h3>
                         <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
                         The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,
@@ -116,7 +116,7 @@
                 </div>
                 <div class="col-sm-3">
                     <div class="box">
-                        <img src="https://dummyimage.com/100/000/fff.png">
+                        <img src="@/assets/resume_image/Weilun_image.jpg" class="img-eva">
                         <h3>Title</h3>
                         <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
                         The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,
@@ -125,7 +125,7 @@
                 </div>
                 <div class="col-sm-3">
                     <div class="box">
-                        <img src="https://dummyimage.com/100/000/fff.png">
+                        <img src="@/assets/resume_image/Weilun_image.jpg" class="img-eva">
                         <h3>Title</h3>
                         <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
                         The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,
@@ -134,7 +134,7 @@
                 </div>
                 <div class="col-sm-3">
                     <div class="box">
-                        <img src="https://dummyimage.com/100/000/fff.png">
+                        <img src="@/assets/resume_image/Weilun_image.jpg" class="img-eva">
                         <h3>Title</h3>
                         <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
                         The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,
@@ -340,31 +340,37 @@ a.socialIcon:hover, .socialHoverClass {
 }
 
 .Evaluation-section{
-.box {
-    width: 100%;
-    background-color: white;
-    text-align: center;
-    font-family: 'Chilanka', cursive;
-    border-radius: 5px;
-    padding: 20px;
-}
+    .img-eva{
+      width: 150px;
+      height: 150px;
 
-.box:hover {
-    box-shadow: 10px 10px 5px #aaaaaa;
-}
+    }
 
-.box img {
-    border-radius: 50%;
-    box-shadow: 10px 10px 5px #aaaaaa;
-}
+    .box {
+        width: 100%;
+        background-color: white;
+        text-align: center;
+        font-family: 'Chilanka', cursive;
+        border-radius: 5px;
+        padding: 20px;
+    }
 
-.box h3 {
-    margin-top: 10px;
-}
+    .box:hover {
+        box-shadow: 10px 10px 5px #aaaaaa;
+    }
 
-.box p {
-    text-align: justify;
-}
+    .box img {
+        border-radius: 50%;
+        box-shadow: 10px 10px 5px #aaaaaa;
+    }
+
+    .box h3 {
+        margin-top: 10px;
+    }
+
+    .box p {
+        text-align: justify;
+    }
 }
 
 
