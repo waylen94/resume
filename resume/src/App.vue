@@ -29,25 +29,166 @@
 
 <!-- Content -->
 <div class="main">
-    <div class="jumbotron">
+    <div class="jumbotron Education">
       <div class="container">
-        <h1>Education</h1>
-        <p></p>
-        <p><a class="btn btn-primary btn-lg" href="http://www.bootcss.com/" role="button" target="_blank">Learn more <span class="glyphicon glyphicon-hand-right" aria-hidden="true"></span></a></p>
+        <h2>Education</h2>
+      <div class="container">
+  <div class="row">
+        <div class="timeline-centered">
+        <article class="timeline-entry">
+            <div class="timeline-entry-inner">
+                <div class="timeline-icon bg-warning">
+                    <i class="entypo-feather"></i>
+                </div>
+                <div class="timeline-label">
+                    <h4>2018 - 2019 The University of Queensland</h4>
+
+                    <blockquote>Master degree of Information Technology</blockquote>
+                    <p>Tolerably earnestly middleton extremely distrusts she boy now not. Add and offered prepare how cordial two promise. Greatly who affixed suppose but enquire compact prepare all put. Added forth chief trees but rooms think may.</p>
+                </div>
+            </div>
+        </article>
+
+
+        <article class="timeline-entry">
+
+            <div class="timeline-entry-inner">
+
+                <div class="timeline-icon bg-success">
+                    <i class="entypo-suitcase"></i>
+                </div>
+
+                <div class="timeline-label">
+                   <h4>2015 - 2018 Souther Cross University</h4>
+
+                    <blockquote>Bachelor degree of Tourism and Hotel Management</blockquote>
+                    <p>Tolerably earnestly middleton extremely distrusts she boy now not. Add and offered prepare how cordial two promise. Greatly who affixed suppose but enquire compact prepare all put. Added forth chief trees but rooms think may.</p>
+                </div>
+            </div>
+
+        </article>
+
+
+        <article class="timeline-entry">
+
+            <div class="timeline-entry-inner">
+
+                <div class="timeline-icon bg-success">
+                    <i class="entypo-location"></i>
+                </div>
+
+
+            </div>
+
+        </article>
+    </div>
+
+
+  </div>
+</div>
       </div>
     </div>
-    <div class="jumbotron">
+
+
+
+    <div class="jumbotron Experience">
       <div class="container">
-        <h1>Work Experience</h1>
-        <p>Get vector icons and social logos on your website with Font Awesome, the web’s most popular icon set and toolkit.</p>
-        <p>
-          <i class="fa fa-camera"></i>
-          <i class="fa fa-camera fa-2x"></i>
-          <i class="fa fa-camera fa-3x"></i>
-          <i class="fa fa-camera fa-4x"></i>
-          <i class="fa fa-camera fa-5x"></i>
-          <i class="fa fa-spinner fa-spin"></i>
-        </p>
+        <h2>Work Experience</h2>
+            <div class="container">
+              <div class="row">
+
+                    <div class="timeline-centered">
+
+                    <article class="timeline-entry">
+
+                        <div class="timeline-entry-inner">
+
+                            <div class="timeline-icon bg-info">
+                                <i class="entypo-feather"></i>
+                            </div>
+
+                            <div class="timeline-label">
+                                <h4>Oct 2019 - Now FreeCodeCamp organization Volunteer</h4>
+                                <blockquote>FreeCodeCamp Github Contributor</blockquote>
+                                <p>Tolerably earnestly middleton extremely distrusts she boy now not. Add and offered prepare how cordial two promise. Greatly who affixed suppose but enquire compact prepare all put. Added forth chief trees but rooms think may.</p>
+                            </div>
+                        </div>
+
+                    </article>
+
+
+                    <article class="timeline-entry">
+
+                        <div class="timeline-entry-inner">
+
+                            <div class="timeline-icon bg-info">
+                                <i class="entypo-suitcase"></i>
+                            </div>
+
+                            <div class="timeline-label">
+                                <h4>Oct 2019 - Now Global capstone project with SKKU</h4>
+                                <blockquote>Research Fellow</blockquote>
+                                <p>You have a meeting at <strong>Laborator Office</strong> Today.</p>
+                            </div>
+                        </div>
+
+                    </article>
+                     <article class="timeline-entry">
+
+                        <div class="timeline-entry-inner">
+
+                            <div class="timeline-icon bg-success">
+                                <i class="entypo-feather"></i>
+                            </div>
+
+                            <div class="timeline-label">
+                                <h4>Feb 2019 – Nov 2019  - Benchmark analysis website</h4>
+                                <blockquote>Full Stack Developer</blockquote>
+                                <p>Tolerably earnestly middleton extremely distrusts she boy now not. Add and offered prepare how cordial two promise. Greatly who affixed suppose but enquire compact prepare all put. Added forth chief trees but rooms think may.</p>
+                            </div>
+                        </div>
+
+                    </article>
+                     <article class="timeline-entry">
+
+                        <div class="timeline-entry-inner">
+
+                            <div class="timeline-icon bg-success">
+                                <i class="entypo-feather"></i>
+                            </div>
+
+                            <div class="timeline-label">
+                                <h4>Feb 2019 – Dec 2019 Network Level defence for Internet of Things</h4>
+                                <blockquote>Research Fellow for Master Degree</blockquote>
+                                <p>Tolerably earnestly middleton extremely distrusts she boy now not. Add and offered prepare how cordial two promise. Greatly who affixed suppose but enquire compact prepare all put. Added forth chief trees but rooms think may.</p>
+                            </div>
+                        </div>
+
+                    </article>
+
+
+<!--                     <article class="timeline-entry">
+
+                        <div class="timeline-entry-inner">
+
+                            <div class="timeline-icon bg-info">
+                                <i class="entypo-location"></i>
+                            </div>
+
+
+                        </div>
+
+                    </article> -->
+
+
+                </div>
+
+
+              </div>
+            </div>
+
+
+
       </div>
     </div>
 
@@ -56,7 +197,7 @@
 
 
     <div class="projectexhibition-section">
-      <h1>Project Exhibition</h1>
+      <h2>Project Exhibition</h2>
 
                     <div class="row">
                         <div class="col-md-6 how-img">
@@ -391,4 +532,301 @@ a.socialIcon:hover, .socialHoverClass {
 }
 
 
+/*=========================
+ Education Experience
+ ================= */
+.Education, .Experience{
+
+img {
+    vertical-align: middle;
+}
+
+.img-responsive {
+    display: block;
+    height: auto;
+    max-width: 100%;
+}
+
+.img-rounded {
+    border-radius: 3px;
+}
+
+.img-thumbnail {
+    background-color: #fff;
+    border: 1px solid #ededf0;
+    border-radius: 3px;
+    display: inline-block;
+    height: auto;
+    line-height: 1.428571429;
+    max-width: 100%;
+    moz-transition: all .2s ease-in-out;
+    o-transition: all .2s ease-in-out;
+    padding: 2px;
+    transition: all .2s ease-in-out;
+    webkit-transition: all .2s ease-in-out;
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
+.timeline-centered {
+    position: relative;
+    margin-bottom: 30px;
+}
+
+    .timeline-centered:before, .timeline-centered:after {
+        content: " ";
+        display: table;
+    }
+
+    .timeline-centered:after {
+        clear: both;
+    }
+
+    .timeline-centered:before, .timeline-centered:after {
+        content: " ";
+        display: table;
+    }
+
+    .timeline-centered:after {
+        clear: both;
+    }
+
+    .timeline-centered:before {
+        content: '';
+        position: absolute;
+        display: block;
+        width: 4px;
+        background: #f5f5f6;
+        /*left: 50%;*/
+        top: 20px;
+        bottom: 20px;
+        margin-left: 30px;
+    }
+
+    .timeline-centered .timeline-entry {
+        position: relative;
+        /*width: 50%;
+        float: right;*/
+        margin-top: 5px;
+        margin-left: 30px;
+        margin-bottom: 10px;
+        clear: both;
+    }
+
+        .timeline-centered .timeline-entry:before, .timeline-centered .timeline-entry:after {
+            content: " ";
+            display: table;
+        }
+
+        .timeline-centered .timeline-entry:after {
+            clear: both;
+        }
+
+        .timeline-centered .timeline-entry:before, .timeline-centered .timeline-entry:after {
+            content: " ";
+            display: table;
+        }
+
+        .timeline-centered .timeline-entry:after {
+            clear: both;
+        }
+
+        .timeline-centered .timeline-entry.begin {
+            margin-bottom: 0;
+        }
+
+        .timeline-centered .timeline-entry.left-aligned {
+            float: left;
+        }
+
+            .timeline-centered .timeline-entry.left-aligned .timeline-entry-inner {
+                margin-left: 0;
+                margin-right: -18px;
+            }
+
+                .timeline-centered .timeline-entry.left-aligned .timeline-entry-inner .timeline-time {
+                    left: auto;
+                    right: -100px;
+                    text-align: left;
+                }
+
+                .timeline-centered .timeline-entry.left-aligned .timeline-entry-inner .timeline-icon {
+                    float: right;
+                }
+
+                .timeline-centered .timeline-entry.left-aligned .timeline-entry-inner .timeline-label {
+                    margin-left: 0;
+                    margin-right: 70px;
+                }
+
+                    .timeline-centered .timeline-entry.left-aligned .timeline-entry-inner .timeline-label:after {
+                        left: auto;
+                        right: 0;
+                        margin-left: 0;
+                        margin-right: -9px;
+                        -moz-transform: rotate(180deg);
+                        -o-transform: rotate(180deg);
+                        -webkit-transform: rotate(180deg);
+                        -ms-transform: rotate(180deg);
+                        transform: rotate(180deg);
+                    }
+
+        .timeline-centered .timeline-entry .timeline-entry-inner {
+            position: relative;
+            margin-left: -20px;
+        }
+
+            .timeline-centered .timeline-entry .timeline-entry-inner:before, .timeline-centered .timeline-entry .timeline-entry-inner:after {
+                content: " ";
+                display: table;
+            }
+
+            .timeline-centered .timeline-entry .timeline-entry-inner:after {
+                clear: both;
+            }
+
+            .timeline-centered .timeline-entry .timeline-entry-inner:before, .timeline-centered .timeline-entry .timeline-entry-inner:after {
+                content: " ";
+                display: table;
+            }
+
+            .timeline-centered .timeline-entry .timeline-entry-inner:after {
+                clear: both;
+            }
+
+            .timeline-centered .timeline-entry .timeline-entry-inner .timeline-time {
+                position: absolute;
+                left: -100px;
+                text-align: right;
+                padding: 10px;
+                -webkit-box-sizing: border-box;
+                -moz-box-sizing: border-box;
+                box-sizing: border-box;
+            }
+
+                .timeline-centered .timeline-entry .timeline-entry-inner .timeline-time > span {
+                    display: block;
+                }
+
+                    .timeline-centered .timeline-entry .timeline-entry-inner .timeline-time > span:first-child {
+                        font-size: 15px;
+                        font-weight: bold;
+                    }
+
+                    .timeline-centered .timeline-entry .timeline-entry-inner .timeline-time > span:last-child {
+                        font-size: 12px;
+                    }
+
+            .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon {
+                background: #fff;
+                color: #737881;
+                display: block;
+                width: 40px;
+                height: 40px;
+                -webkit-background-clip: padding-box;
+                -moz-background-clip: padding;
+                background-clip: padding-box;
+                -webkit-border-radius: 20px;
+                -moz-border-radius: 20px;
+                border-radius: 20px;
+                text-align: center;
+                -moz-box-shadow: 0 0 0 5px #f5f5f6;
+                -webkit-box-shadow: 0 0 0 5px #f5f5f6;
+                box-shadow: 0 0 0 5px #f5f5f6;
+                line-height: 40px;
+                font-size: 15px;
+                float: left;
+            }
+
+                .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.bg-primary {
+                    background-color: #303641;
+                    color: #fff;
+                }
+
+                .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.bg-secondary {
+                    background-color: #ee4749;
+                    color: #fff;
+                }
+
+                .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.bg-success {
+                    background-color: #00a651;
+                    color: #fff;
+                }
+
+                .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.bg-info {
+                    background-color: #21a9e1;
+                    color: #fff;
+                }
+
+                .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.bg-warning {
+                    background-color: #fad839;
+                    color: #fff;
+                }
+
+                .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.bg-danger {
+                    background-color: #cc2424;
+                    color: #fff;
+                }
+
+            .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label {
+                position: relative;
+                background: #f5f5f6;
+                padding: 1em;
+                margin-left: 60px;
+                -webkit-background-clip: padding-box;
+                -moz-background-clip: padding;
+                background-clip: padding-box;
+                -webkit-border-radius: 3px;
+                -moz-border-radius: 3px;
+                border-radius: 3px;
+            }
+
+                .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label:after {
+                    content: '';
+                    display: block;
+                    position: absolute;
+                    width: 0;
+                    height: 0;
+                    border-style: solid;
+                    border-width: 9px 9px 9px 0;
+                    border-color: transparent #f5f5f6 transparent transparent;
+                    left: 0;
+                    top: 10px;
+                    margin-left: -9px;
+                }
+
+                .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label h2, .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label p {
+                    color: #737881;
+                    font-family: "Noto Sans",sans-serif;
+                    font-size: 12px;
+                    margin: 0;
+                    line-height: 1.428571429;
+                }
+
+                    .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label p + p {
+                        margin-top: 15px;
+                    }
+
+                .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label h2 {
+                    font-size: 16px;
+                    margin-bottom: 10px;
+                }
+
+                    .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label h2 a {
+                        color: #303641;
+                    }
+
+                    .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label h2 span {
+                        -webkit-opacity: .6;
+                        -moz-opacity: .6;
+                        opacity: .6;
+                        -ms-filter: alpha(opacity=60);
+                        filter: alpha(opacity=60);
+                    }
+
+
+
+}
 </style>
