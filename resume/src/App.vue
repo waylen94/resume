@@ -44,6 +44,7 @@
                     <h4>2018 - 2019 The University of Queensland</h4>
 
                     <blockquote>Master degree of Information Technology</blockquote>
+
                   <ul>
                         <li>Algorithm & Data Structure</li>
                         <li>Web Information System</li>
@@ -255,9 +256,7 @@
                     <div class="box">
                         <img src="@/assets/resume_image/Weilun_image.jpg" class="img-eva">
                         <h3>Prof. Sara Dolnicar</h3>
-                        <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
-                        The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,
-                        as opposed to using 'Content here, content here', making it look like readable English.</p>
+                        <p>Weilun is a reliable problem solver, always keep constantly high productivity. During the one year project, our project has been deployed in the cloud platform. I am really satisfied and anticipated about the potential of our benchmark analysis application. Without Weilun our project couldn’t have developed so smoothly.</p>
                     </div>
                 </div>
                 <div class="col-sm-3">
