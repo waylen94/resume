@@ -264,8 +264,8 @@
                 </div>
                 <div class="col-sm-3">
                     <div class="box">
-                      <img src="@/assets/resume_image/Weilun_image.jpg" class="img-eva">
-                        <!-- <img src="@/assets/resume_image/Yinzongyao_image.jpg" class="img-eva"> -->
+                      <!-- <img src="@/assets/resume_image/Weilun_image.jpg" class="img-eva"> -->
+                        <img src="@/assets/resume_image/Yinzongyao_image.jpg" class="img-eva">
                         <h3>Mr. Zongyao Ying</h3>
                         <p>We has became friend since 2013. I will not be any hesitated to recommend Weilun. He is a honest, sincere, talent, self-discipline, energetic decision maker. I cannot enumerate the whole excellent personalities. I wish you could get all the best. You have my highest recommendation. </p>
                     </div>
