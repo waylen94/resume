@@ -247,9 +247,7 @@
                     <div class="box">
                         <img src="@/assets/resume_image/Weilun_image.jpg" class="img-eva">
                         <h3>Prof. Dan Kim</h3>
-                        <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
-                        The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,
-                        as opposed to using 'Content here, content here', making it look like readable English.</p>
+                        <p>Weilun is a sincere and productive self-motivator.  He has strong self-driven and self-management attitude, always attached a schedule with our routine progress report. As a junior researcher, he hold his work passionately and seriously. I am satisfied to his growth of research ability. As a developer, he enable to dissolve complex system and integrate innovative features.</p>
                     </div>
                 </div>
                 <div class="col-sm-3">
@@ -263,18 +261,14 @@
                     <div class="box">
                         <img src="@/assets/resume_image/Weilun_image.jpg" class="img-eva">
                         <h3>Dr. Mengmeng Ge</h3>
-                        <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
-                        The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,
-                        as opposed to using 'Content here, content here', making it look like readable English.</p>
+                        <p>He is a hardworking independent junior research, who not only enable to explore the potential problems but also present the related solutions. He is a reliable person, always keep active response to our project improvements and suggestions. I am willing to witness his growth. </p>
                     </div>
                 </div>
                 <div class="col-sm-3">
                     <div class="box">
                         <img src="@/assets/resume_image/Weilun_image.jpg" class="img-eva">
                         <h3>Mr. Zongyao Ying</h3>
-                        <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
-                        The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,
-                        as opposed to using 'Content here, content here', making it look like readable English.</p>
+                        <p>We has became friend since 2013. I will not be any hesitated to recommend Weilun. He is a honest, sincere, talent, self-discipline, energetic decision maker. I cannot enumerate the whole excellent personalities. I wish you could get all the best. You have my highest recommendation. </p>
                     </div>
                 </div>
             </div>
