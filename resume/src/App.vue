@@ -259,7 +259,7 @@
                       <img src="@/assets/resume_image/Weilun_image.jpg" class="img-eva">
                         <!-- <img src="@/assets/resume_image/Mengmeng_image.jpg" class="img-eva"> -->
                         <h3>Dr. Mengmeng Ge</h3>
-                        <p>He is a hardworking independent junior research, who not only enable to explore the potential problems but also present the related solutions. He is a reliable person, always keep active response to our project improvements and suggestions. I am willing to witness his growth. </p>
+                        <p>He is a hardworking independent junior researcher, who not only enable to explore the potential problems but also present the related solutions. He is a reliable person, always keep active response to our project improvements and suggestions. I am willing to witness his growth. </p>
                     </div>
                 </div>
                 <div class="col-sm-3">
