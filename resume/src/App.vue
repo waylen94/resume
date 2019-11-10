@@ -74,7 +74,7 @@
 
                 <div class="timeline-label">
                    <h4>2016 - 2018 Souther Cross University</h4>
-
+                   <p class = "col">Hogbin Dr, Coffs Harbour NSW 2450</p>
                     <blockquote>Bachelor degree of Tourism and Hotel Management</blockquote>
                       <ul>
                         <li>The Human Resource Management </li>
@@ -225,7 +225,8 @@
                                         <h4 class="subheading">IoT based Data Analysis application</h4>
 
                   <a href="http://naughtyorniceanalytics.herokuapp.com" class="btn btn-primary btn-sm" target="view_window">Actual Sample Website</a>
-                 <button type="button"  class="btn btn-success btn-sm" data-toggle="modal" data-target="#exampleModal2">Application Architecture Diagram</button>
+                  <a href="https://naughtyorniceanalytics.s3-ap-southeast-2.amazonaws.com/Benchmark_Diagram_Architecture.png" class="btn btn-success btn-sm" target="view_window">Application Architecture Diagram</a>
+                 <!-- <button type="button"  class="btn btn-success btn-sm" data-toggle="modal" data-target="#exampleModal2">Application Architecture Diagram</button> -->
                   <a href="#recommendation" class="btn btn-info btn-sm" >Employer Recommendation By Prof. Sara</a>
 
 
@@ -239,7 +240,11 @@
                             <h4>Network Level Defense for IoT</h4>
                                         <h4 class="subheading">Moving Target Defense mechanism based Training System  </h4>
                                         <a href="http://deco7861.herokuapp.com" class="btn btn-primary btn-sm" target="view_window">Visualization Interface Website</a>
-                                        <button type="button" class="btn btn-success btn-sm" data-toggle="modal" data-target="#exampleModal3">Visualization Interface App Architecture Diagram</button>
+
+                                        <a href="https://naughtyorniceanalytics.s3-ap-southeast-2.amazonaws.com/Vis_Architecture_diagram.png" class="btn btn-success btn-sm" target="view_window">Visualization Interface App Architecture Diagram</a>
+
+
+
                                         <a href="#recommendation" class="btn btn-info btn-sm">Employer Recommendation By Prof. Dan</a>
 
                                         <p class="text-muted">text paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext padding.</p>
@@ -259,48 +264,6 @@
                                         <p class="text-muted">text paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext padding.</p>
                         </div>
                     </div>
-
-
-<!-- Modal -->
-<div class="modal fade" id="exampleModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel2" aria-hidden="true">
-  <div class="modal-dialog modal-dialog-centered modal-dialog-zoom modal-sm" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Modal sideout small</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">×</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        ...
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="modal fade" id="exampleModal3" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel3" aria-hidden="true">
-  <div class="modal-dialog modal-dialog-centered modal-dialog-zoom" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Modal sideout normal</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">×</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        ...
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
-      </div>
-    </div>
-  </div>
-</div>
-
                 </div>
 
 
@@ -368,6 +331,9 @@
 <script>
 export default {
   name: 'App',
+  data: {
+    showModal: false
+  }
 }
 </script>
 
@@ -399,6 +365,7 @@ h5 {
  ================= */
 }
 .projectexhibition-section{
+
     margin-top:2%;
     padding: 5%;
 
@@ -587,6 +554,7 @@ a.socialIcon:hover, .socialHoverClass {
 }
 
 .Evaluation-section{
+
     .img-eva{
       width: 150px;
       height: 150px;
