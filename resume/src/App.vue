@@ -7,7 +7,7 @@
                 <img class="img-circle img-responsive weilun_img" src="@/assets/resume_image/Weilun_image.jpg">
                     <div>
                         <h2> <span itemprop="name">Weilun Liu</span></h2>
-                        <p> Full Stack Developer, GitHub contributor,Technology Fan, Translator, Researcher. I aim to be one of the top software engineer in the world.  Currently, I am seeking any job opportunity to become independent. </p>
+                        <p></p>
                         <p>
                           <ul class="social-network social-circle">
                         <li><a href="https://github.com/waylen94" class="icoGitbub" title="Github" target="view_window"><i class="fa fa-github"></i></a></li>
@@ -30,6 +30,13 @@
 
 <!-- Content -->
 <div class="main">
+
+  <div class = "personal">
+
+                <h5 class="vertical center" style="width: 100%;">I am Weilun Liu. A full stack developer, a GitHub community contributor, a Technology Fan, a translator, and a researcher. I aim to be one of the top software engineer in the world.  Currently, I am seeking any job opportunity to become independent.</h5>
+  </div>
+
+
     <div class="jumbotron Education">
       <div class="container">
         <h2>Education</h2>
@@ -218,7 +225,7 @@
                                         <h4 class="subheading">IoT based Data Analysis application</h4>
 
                   <a href="http://naughtyorniceanalytics.herokuapp.com" class="btn btn-primary btn-sm" target="view_window">Actual Sample Website</a>
-                  <a href="#" class="btn btn-success btn-sm">Application Architecture Diagram</a>
+                 <button type="button"  class="btn btn-success btn-sm" data-toggle="modal" data-target="#exampleModal2">Application Architecture Diagram</button>
                   <a href="#recommendation" class="btn btn-info btn-sm" >Employer Recommendation By Prof. Sara</a>
 
 
@@ -232,7 +239,7 @@
                             <h4>Network Level Defense for IoT</h4>
                                         <h4 class="subheading">Moving Target Defense mechanism based Training System  </h4>
                                         <a href="http://deco7861.herokuapp.com" class="btn btn-primary btn-sm" target="view_window">Visualization Interface Website</a>
-                                        <a href="#"" class="btn btn-success btn-sm">Visualization Interface App Architecture Diagram</a>
+                                        <button type="button" class="btn btn-success btn-sm" data-toggle="modal" data-target="#exampleModal3">Visualization Interface App Architecture Diagram</button>
                                         <a href="#recommendation" class="btn btn-info btn-sm">Employer Recommendation By Prof. Dan</a>
 
                                         <p class="text-muted">text paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext padding.</p>
@@ -254,8 +261,49 @@
                     </div>
 
 
+<!-- Modal -->
+<div class="modal fade" id="exampleModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel2" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-dialog-zoom modal-sm" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Modal sideout small</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">×</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        ...
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="modal fade" id="exampleModal3" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel3" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-dialog-zoom" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Modal sideout normal</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">×</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        ...
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
 
                 </div>
+
+
 
 
    <div class="Evaluation-section" id="recommendation">
@@ -328,10 +376,28 @@ $icon-font-path: "~bootstrap-sass/assets/fonts/bootstrap/";
 $fa-font-path: "~font-awesome/fonts/";
 @import "~bootstrap-sass/assets/stylesheets/_bootstrap";
 @import "~font-awesome/scss/font-awesome";
+@import url('https://fonts.googleapis.com/css?family=Parisienne&display=swap');
 
 body > .container { margin-top: 15px;}
 
+.weilun_img{
 
+}
+
+/*=========================
+  personal details begin
+ ================= */
+.personal{
+  margin: 6%;
+  font-family: 'Parisienne', cursive;
+
+h5 {
+    font-size: 20px;
+}
+/*=========================
+  personal details end
+ ================= */
+}
 .projectexhibition-section{
     margin-top:2%;
     padding: 5%;
@@ -348,7 +414,7 @@ body > .container { margin-top: 15px;}
     .row{
         margin-top: 10%;
     }
-    a{
+    a,button{
 
       margin: 1%;
     }
@@ -385,7 +451,7 @@ body > .container { margin-top: 15px;}
     background-color: #000;
     overflow-x: hidden;
     padding-top: 10px;
-
+    overflow-y: hidden;
 }
 
 
