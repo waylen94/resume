@@ -9,11 +9,11 @@
                         <h2> <span itemprop="name">Weilun Liu</span></h2>
 
                         <p> <ul class="social-network social-circle">
-                        <li><a href="https://github.com/waylen94" class="icoGitbub" title="Github"><i class="fa fa-github"></i></a></li>
-                        <li><a href="#" class="icoFacebook" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="https://github.com/waylen94" class="icoGitbub" title="Github" target="view_window"><i class="fa fa-github"></i></a></li>
+                        <li><a href="#" class="icoFacebook" title="Facebook"><i class="fa fa-facebook" target="view_window"></i></a></li>
 
-                        <li><a href="https://www.linkedin.com/in/玮伦-刘-23343418b/" class="icoLinkedin" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
-                        <li><a href="https://waylen94.github.io/Diary/" class="icoDiary" title="Diary"><i class="fa fa-calendar"></i></a></li>
+                        <li><a href="https://www.linkedin.com/in/玮伦-刘-23343418b/" class="icoLinkedin" title="Linkedin" target="view_window"><i class="fa fa-linkedin"></i></a></li>
+                        <li><a href="https://waylen94.github.io/Diary/" class="icoDiary" title="Diary" target="view_window"><i class="fa fa-calendar"></i></a></li>
 
                     </ul>
 
@@ -106,8 +106,11 @@
 
                             <div class="timeline-label">
                                 <h4>Oct 2019 - Now FreeCodeCamp Organization</h4>
-                                <blockquote>FreeCodeCamp Github Contributor</blockquote>
-                                <p>Translation technique related articlesTranslation technique related articlesTranslation technique related articlesTranslation technique related articlesTranslation technique related articlesTranslation technique related articless.</p>
+                                <blockquote>Volunteer position as GitHub Contributor </blockquote>
+                                <p><strong>Description:</strong> Translating and sharing technical articles</p>
+                                <p>
+                                  <strong>My Skills:</strong> English-Chinese Translation in technique filed.
+                                </p>
                             </div>
                         </div>
 
@@ -124,8 +127,10 @@
 
                             <div class="timeline-label">
                                 <h4>Oct 2019 - Now Global Capstone Project with SKKU in South Korean</h4>
-                                <blockquote>Research Fellow</blockquote>
-                                <p>Computer vision Computer visionComputer visionComputer visionComputer visionComputer visionComputer visionComputer visionComputer vision.</p>
+                                <blockquote>Volunteer position as Research Fellows</blockquote>
+                                <p><strong>Description: </strong>Integrating computer vision libraries (OpenCV) with machine learning (Deep learning, enforcement learning, neural network based Tensor flow) optimization.</p>
+                                <p><strong>My Skills:</strong> Research ability, Python, Open-CV libraries, Tensor Flow Libraries, Inspyred-Genetic-Algorithm Libraries.
+                              </p>
                                 <!-- <p>You have a meeting at <strong>Laborator Office</strong> Today.</p> -->
                             </div>
                         </div>
@@ -141,8 +146,11 @@
 
                             <div class="timeline-label">
                                 <h4>Feb 2019 – Nov 2019  - Benchmark Analysis Website</h4>
-                                <blockquote>Full Stack Developer</blockquote>
-                                <p>Becnhmark mark websiteBecnhmark mark websiteBecnhmark mark websiteBecnhmark mark websiteBecnhmark mark websiteBecnhmark mark websiteBecnhmark mark websiteBecnhmark mark website.</p>
+                                <blockquote>Volunteer position as Full Stack Developer and Team Leader</blockquote>
+                                <p><strong>Description:</strong> Design, implement, development, deployment actual website in cloud platform.</p>
+                                <p class="article-title">
+                                  <strong>My skills:</strong> PHP, Laravel, Vue, MySQL, PrepostSQL, Amazon S3, Amazon Website Service, Heroku Cloud Platform, CSS, JavaScript, Bootstrap4, Homestead, Vagrant Virtual Box, Restful Request
+                                </p>
                             </div>
                         </div>
 
@@ -157,8 +165,11 @@
 
                             <div class="timeline-label">
                                 <h4>Feb 2019 – Dec 2019 Network Level defence for Internet of Things</h4>
-                                <blockquote>Research Fellow for Master Degree</blockquote>
-                                <p>Moving target defenseMoving target defenseMoving target defenseMoving target defenseMoving target defenseMoving target defenseMoving target defenseMoving target defense. </p>
+                                <blockquote>Research Fellows for Master Degree Project</blockquote>
+                                <p><strong>Description:</strong> Integrated proactive defense mechanism with more features. There is one conference paper submitted into  “ACM/IEEE Conference on Internet of Things Design and Implementation (IoTDI 2020)” namely “Integrated Proactive Defense for Software Defined Internet-of-Things under Multi-Target Attacks”</p>
+                                <p>
+                                <strong>My Skills:</strong> Python, Information Security, Internet of Things, Moving Target Defense, Cyber Deception, Genetic Algorithm, Inspyred-Genetic-Algorithm Libraries
+                              </p>
                             </div>
                         </div>
 
@@ -203,7 +214,14 @@
                         </div>
                         <div class="col-md-6">
                             <h4>Benchmark Analysis Website</h4>
-                                        <h4 class="subheading">text padding</h4>
+                                        <h4 class="subheading">IoT based Data Analysis application</h4>
+
+                  <a href="http://naughtyorniceanalytics.herokuapp.com" class="btn btn-primary btn-sm" target="view_window">Actual Sample Website</a>
+                  <a href="#" class="btn btn-success btn-sm" target="view_window">Application Architecture Diagram</a>
+                  <a href="#recommendation" class="btn btn-info btn-sm" target="view_window">Employer Recommendation By Prof. Sara</a>
+
+
+
                         <p class="text-muted">text paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext padding.</p>
                         </div>
                     </div>
@@ -211,7 +229,11 @@
                     <div class="row">
                         <div class="col-md-6">
                             <h4>Network Level Defense for IoT</h4>
-                                        <h4 class="subheading">text paddingtext paddingtext paddingtext padding</h4>
+                                        <h4 class="subheading">Moving Target Defense mechanism based Training System  </h4>
+                                        <a href="http://deco7861.herokuapp.com" class="btn btn-primary btn-sm" target="view_window">Visualization Interface Website</a>
+                                        <a href="#"" class="btn btn-success btn-sm" target="view_window">Visualization Interface App Architecture Diagram</a>
+                                        <a href="#recommendation" class="btn btn-info btn-sm" target="view_window">Employer Recommendation By Prof. Dan</a>
+
                                         <p class="text-muted">text paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext padding.</p>
                         </div>
                         <div class="col-md-6 how-img">
@@ -225,7 +247,7 @@
                         </div>
                         <div class="col-md-6">
                             <h4>Global Capstone project</h4>
-                                        <h4 class="subheading">text paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext padding</h4>
+                                        <h4 class="subheading">Computer Vision come across with Machine Learning</h4>
                                         <p class="text-muted">text paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext padding.</p>
                         </div>
                     </div>
@@ -235,7 +257,7 @@
                 </div>
 
 
-   <div class="Evaluation-section">
+   <div class="Evaluation-section" id="recommendation">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-sm-3">
@@ -325,6 +347,10 @@ body > .container { margin-top: 15px;}
     .row{
         margin-top: 10%;
     }
+    a{
+
+      margin: 1%;
+    }
 }
 
 .how-img
@@ -344,6 +370,7 @@ body > .container { margin-top: 15px;}
     }
 
 }
+
 
 
 .main-head{
@@ -824,4 +851,5 @@ img {
 
 
 }
+
 </style>
