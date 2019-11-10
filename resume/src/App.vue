@@ -7,8 +7,9 @@
                 <img class="img-circle img-responsive weilun_img" src="@/assets/resume_image/Weilun_image.jpg">
                     <div>
                         <h2> <span itemprop="name">Weilun Liu</span></h2>
-
-                        <p> <ul class="social-network social-circle">
+                        <p> Full Stack Developer, GitHub contributor,Technology Fan, Translator, Researcher. I aim to be one of the top software engineer in the world.  Currently, I am seeking any job opportunity to become independent. </p>
+                        <p>
+                          <ul class="social-network social-circle">
                         <li><a href="https://github.com/waylen94" class="icoGitbub" title="Github" target="view_window"><i class="fa fa-github"></i></a></li>
                         <li><a href="#" class="icoFacebook" title="Facebook"><i class="fa fa-facebook" target="view_window"></i></a></li>
 
@@ -383,8 +384,8 @@ body > .container { margin-top: 15px;}
     height: 100%;
     background-color: #000;
     overflow-x: hidden;
-    padding-top: 15px;
-    overflow-y: hidden;
+    padding-top: 10px;
+
 }
 
 
@@ -393,7 +394,7 @@ body > .container { margin-top: 15px;}
 }
 
 @media screen and (max-height: 450px) {
-    .sidenav {padding-top: 15px;}
+    .sidenav {padding-top: 10px;}
 }
 
 @media screen and (max-width: 450px) {
