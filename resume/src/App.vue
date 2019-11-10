@@ -217,8 +217,8 @@
                                         <h4 class="subheading">IoT based Data Analysis application</h4>
 
                   <a href="http://naughtyorniceanalytics.herokuapp.com" class="btn btn-primary btn-sm" target="view_window">Actual Sample Website</a>
-                  <a href="#" class="btn btn-success btn-sm" target="view_window">Application Architecture Diagram</a>
-                  <a href="#recommendation" class="btn btn-info btn-sm" target="view_window">Employer Recommendation By Prof. Sara</a>
+                  <a href="#" class="btn btn-success btn-sm">Application Architecture Diagram</a>
+                  <a href="#recommendation" class="btn btn-info btn-sm" >Employer Recommendation By Prof. Sara</a>
 
 
 
@@ -231,8 +231,8 @@
                             <h4>Network Level Defense for IoT</h4>
                                         <h4 class="subheading">Moving Target Defense mechanism based Training System  </h4>
                                         <a href="http://deco7861.herokuapp.com" class="btn btn-primary btn-sm" target="view_window">Visualization Interface Website</a>
-                                        <a href="#"" class="btn btn-success btn-sm" target="view_window">Visualization Interface App Architecture Diagram</a>
-                                        <a href="#recommendation" class="btn btn-info btn-sm" target="view_window">Employer Recommendation By Prof. Dan</a>
+                                        <a href="#"" class="btn btn-success btn-sm">Visualization Interface App Architecture Diagram</a>
+                                        <a href="#recommendation" class="btn btn-info btn-sm">Employer Recommendation By Prof. Dan</a>
 
                                         <p class="text-muted">text paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext padding.</p>
                         </div>
