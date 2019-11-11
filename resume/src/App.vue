@@ -276,32 +276,44 @@
                     <div class="box">
                         <!-- <img src="@/assets/resume_image/Dan_image.jpeg" class="img-eva"> -->
                         <img src="@/assets/resume_image/Weilun_image.jpg" class="img-eva">
-                        <h3>Prof. Dan Kim</h3>
-                        <p>Weilun is a sincere and productive self-motivator.  He has strong self-driven and self-management attitude, always attached a schedule with our routine progress report. As a junior researcher, he hold his work passionately and seriously. I am satisfied to his growth of research ability. As a developer, he enable to dissolve complex system and integrate innovative features.</p>
+                        <h4>Prof. Dan Kim</h4>
+                        <span style="font-size: 14px; color: Dodgerblue;">
+                        <i class="fa fa-quote-left col-sm-2"></i>
+                        </span>
+                        <p>Weilun is a sincere and productive self-motivator.  He has strong self-driven and self-management attitude, always attached a schedule with our routine progress report. As a junior researcher, he hold his work passionately and seriously. I am satisfied to his growth of research ability. As a developer, he enable to dissolve complex system and integrate innovative features.  <span style="font-size: 14px; color: Dodgerblue;"><i class="fa fa-quote-right "></i></span></p>
                     </div>
                 </div>
                 <div class="col-sm-3">
                     <div class="box">
                         <!-- <img src="@/assets/resume_image/Sara_image.jpeg" class="img-eva"> -->
                         <img src="@/assets/resume_image/Weilun_image.jpg" class="img-eva">
-                        <h3>Prof. Sara Dolnicar</h3>
-                        <p>Weilun is a reliable problem solver, always keep constantly high productivity. During the one year project, our project has been deployed in the cloud platform. I am really satisfied and anticipated about the potential of our benchmark analysis application. Without Weilun our project couldn’t have developed so smoothly.</p>
+                        <h4>Prof. Sara Dolnicar</h4>
+                         <span style="font-size: 14px; color: Dodgerblue;">
+                        <i class="fa fa-quote-left col-sm-2"></i>
+                        </span>
+                        <p>Weilun is a reliable problem solver, always keep constantly high productivity. During the one year project, our project has been deployed in the cloud platform. I am really satisfied and anticipated about the potential of our benchmark analysis application. Without Weilun our project couldn’t have developed so smoothly.  <span style="font-size: 14px; color: Dodgerblue;"><i class="fa fa-quote-right "></i></span></p>
                     </div>
                 </div>
                 <div class="col-sm-3">
                     <div class="box">
-                      <img src="@/assets/resume_image/Weilun_image.jpg" class="img-eva">
-                        <!-- <img src="@/assets/resume_image/Mengmeng_image.jpg" class="img-eva"> -->
-                        <h3>Dr. Mengmeng Ge</h3>
-                        <p>He is a hardworking independent junior researcher, who not only enable to explore the potential problems but also present the related solutions. He is a reliable person, always keep active response to our project improvements and suggestions. I am willing to witness his growth. </p>
+                      <!-- <img src="@/assets/resume_image/Weilun_image.jpg" class="img-eva"> -->
+                        <img src="@/assets/resume_image/Mengmeng_image.jpg" class="img-eva">
+                        <h4>Dr. Mengmeng Ge</h4>
+                         <span style="font-size: 14px; color: Dodgerblue;">
+                        <i class="fa fa-quote-left col-sm-2"></i>
+                        </span>
+                        <p>He was very hardworking and had good understanding about the project. He was not only capable of implementing the code to solve existing problems but also creative to come up with new ideas on potential solutions. Moreover, he is a reliable person in responding to emails and queries in time and always active in project improvements and suggestions.  <span style="font-size: 14px; color: Dodgerblue;"><i class="fa fa-quote-right "></i></span></p>
                     </div>
                 </div>
                 <div class="col-sm-3">
                     <div class="box">
                       <!-- <img src="@/assets/resume_image/Weilun_image.jpg" class="img-eva"> -->
                         <img src="@/assets/resume_image/Yinzongyao_image.jpg" class="img-eva">
-                        <h3>Mr. Zongyao Ying</h3>
-                        <p>We has became friend since 2013. I will not be any hesitated to recommend Weilun. He is a honest, sincere, talent, self-discipline, energetic decision maker. I cannot enumerate the whole excellent personalities. I wish you could get all the best. You have my highest recommendation. </p>
+                        <h4>Mr. Zongyao Ying</h4>
+                         <span style="font-size: 14px; color: Dodgerblue;">
+                        <i class="fa fa-quote-left col-sm-2"></i>
+                        </span>
+                        <p>We has became friend since 2013. I will not be any hesitated to recommend Weilun. He is a honest, sincere, talent, self-discipline, energetic decision maker. I cannot enumerate the whole excellent personalities. I wish you could get all the best. You have my highest recommendation.  <span style="font-size: 14px; color: Dodgerblue;"><i class="fa fa-quote-right "></i></span></p>
                     </div>
                 </div>
             </div>
