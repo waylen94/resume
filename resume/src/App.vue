@@ -231,7 +231,7 @@
 
 
 
-                        <p class="text-muted">text paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext padding.</p>
+                        <p class="text-muted">Landing Internet of Things techniques in practical project for analyzing food waste index based benchmark performance. As project team leader, I designed, implemented and deployed the above shown APP architecture in Heroku Cloud Platform. </p>
                         </div>
                     </div>
 
@@ -247,7 +247,7 @@
 
                                         <a href="#recommendation" class="btn btn-info btn-sm">Employer Recommendation By Prof. Dan</a>
 
-                                        <p class="text-muted">text paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext padding.</p>
+                                        <p class="text-muted">Network visualization interface only a very small part implemented during my master thesis period. Because it is tangible, I display it there. The actual application web link is shown above, the building architecture is also exhibited above. </p>
                         </div>
                         <div class="col-md-6 how-img">
                             <img src="@/assets/resume_image/Vis_interface_png.png" class="img-vis img-fluid" alt=""/>
@@ -261,7 +261,8 @@
                         <div class="col-md-6">
                             <h4>Global Capstone project</h4>
                                         <h4 class="subheading">Computer Vision come across with Machine Learning</h4>
-                                        <p class="text-muted">text paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext paddingtext padding.</p>
+                                        <p class="text-muted">OpenCV meet up with Deep learning.  </p>
+                                        <p>More coming soon.....</p>
                         </div>
                     </div>
                 </div>
