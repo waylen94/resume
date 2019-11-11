@@ -11,7 +11,7 @@
                         <p>
                           <ul class="social-network social-circle">
                         <li><a href="https://github.com/waylen94" class="icoGitbub" title="Github" target="view_window"><i class="fa fa-github"></i></a></li>
-                        <li><a href="#" class="icoFacebook" title="Facebook"><i class="fa fa-facebook" target="view_window"></i></a></li>
+                        <li><a href="https://www.facebook.com/profile.php?id=100010737480591" class="icoFacebook" title="Facebook" target="view_window"><i class="fa fa-facebook" target="view_window"></i></a></li>
 
                         <li><a href="https://www.linkedin.com/in/玮伦-刘-23343418b/" class="icoLinkedin" title="Linkedin" target="view_window"><i class="fa fa-linkedin"></i></a></li>
                         <li><a href="https://waylen94.github.io/Diary/" class="icoDiary" title="Diary" target="view_window"><i class="fa fa-calendar"></i></a></li>
@@ -50,7 +50,7 @@
                 </div>
                 <div class="timeline-label">
                     <h4>2018 - 2019 The University of Queensland</h4>
-
+ <p class = "col">St Lucia, Brisbane QLD 4072</p>
                     <blockquote>Master degree of Information Technology</blockquote>
 
                   <ul>
@@ -157,7 +157,7 @@
                                 <blockquote>Volunteer position as Full Stack Developer and Team Leader</blockquote>
                                 <p><strong>Description:</strong> Design, implement, development, deployment actual website in cloud platform.</p>
                                 <p class="article-title">
-                                  <strong>My skills:</strong> PHP, Laravel, Vue, MySQL, PrepostSQL, Amazon S3, Amazon Website Service, Heroku Cloud Platform, CSS, JavaScript, Bootstrap4, Homestead, Vagrant Virtual Box, Restful Request
+                                  <strong>My skills:</strong> PHP, Laravel, Vue, MySQL, PostgreSQL, Amazon S3, Amazon Website Service, Heroku Cloud Platform, CSS, JavaScript, Bootstrap4, Homestead, Vagrant Virtual Box, Restful Request
                                 </p>
                             </div>
                         </div>
@@ -174,7 +174,7 @@
                             <div class="timeline-label">
                                 <h4>Feb 2019 – Dec 2019 Network Level defence for Internet of Things</h4>
                                 <blockquote>Research Fellows for Master Degree Project</blockquote>
-                                <p><strong>Description:</strong> Integrated proactive defense mechanism with more features. There is one conference paper submitted into  “ACM/IEEE Conference on Internet of Things Design and Implementation (IoTDI 2020)” namely “Integrated Proactive Defense for Software Defined Internet-of-Things under Multi-Target Attacks”</p>
+                                <p><strong>Description:</strong> Integrated proactive defense mechanism with more features. There is one conference paper submitted into  “ACM/IEEE Conference on Internet of Things Design and Implementation (IoTDI 2020)” which paper namely “Integrated Proactive Defense for Software Defined Internet-of-Things under Multi-Target Attacks”</p>
                                 <p>
                                 <strong>My Skills:</strong> Python, Information Security, Internet of Things, Moving Target Defense, Cyber Deception, Genetic Algorithm, Inspyred-Genetic-Algorithm Libraries
                               </p>
