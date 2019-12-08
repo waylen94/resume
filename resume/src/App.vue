@@ -275,13 +275,13 @@
             <div class="row">
                 <div class="col-sm-3">
                     <div class="box">
-                        <!-- <img src="@/assets/resume_image/Dan_image.jpeg" class="img-eva"> -->
-                        <img src="@/assets/resume_image/Weilun_image.jpg" class="img-eva">
+                        <img src="@/assets/resume_image/Dan_image.jpeg" class="img-eva">
+                        <!-- <img src="@/assets/resume_image/Weilun_image.jpg" class="img-eva"> -->
                         <h4>Prof. Dan Kim</h4>
                         <span style="font-size: 14px; color: Dodgerblue;">
                         <i class="fa fa-quote-left col-sm-2"></i>
                         </span>
-                        <p>Weilun is a sincere and productive self-motivator.  He has strong self-driven and self-management attitude, always attached a schedule with our routine progress report. As a junior researcher, he hold his work passionately and seriously. I am satisfied to his growth of research ability. As a developer, he enable to dissolve complex system and integrate innovative features.  <span style="font-size: 14px; color: Dodgerblue;"><i class="fa fa-quote-right "></i></span></p>
+                        <p>To Weilun, Whenever you need a reference, I would like to do so.  <span style="font-size: 14px; color: Dodgerblue;"><i class="fa fa-quote-right "></i></span></p>
                     </div>
                 </div>
                 <div class="col-sm-3">
