@@ -157,7 +157,7 @@
                                 <blockquote>Volunteer position as Full Stack Developer and Team Leader</blockquote>
                                 <p><strong>Description:</strong> Design, implement, development, deployment actual website in cloud platform.</p>
                                 <p class="article-title">
-                                  <strong>My skills:</strong> PHP, Laravel, Vue, MySQL, PostgreSQL, Amazon S3, Amazon Website Service, Heroku Cloud Platform, CSS, JavaScript, Bootstrap4, Homestead, Vagrant Virtual Box, Restful Request
+                                  <strong>My skills:</strong> PHP, Laravel, Vue, MySQL, PostgreSQL, Amazon S3, Amazon Website Service, Heroku Cloud Platform, CSS, JavaScript, Bootstrap4, Homestead, Vagrant Virtual Box, Restful API
                                 </p>
                             </div>
                         </div>
@@ -231,7 +231,7 @@
 
 
 
-                        <p class="text-muted">Landing Internet of Things techniques in practical project for analyzing food waste index based benchmark performance. As project team leader, I designed, implemented and deployed the above shown APP architecture in Heroku Cloud Platform. </p>
+                        <p class="text-muted">Landing Internet of Things techniques in a practical project for analyzing food waste index-based benchmark performance. As a project team leader, I designed, implemented and deployed the above-shown APP architecture in Heroku Cloud Platform. </p>
                         </div>
                     </div>
 
@@ -286,13 +286,15 @@
                 </div>
                 <div class="col-sm-3">
                     <div class="box">
-                        <!-- <img src="@/assets/resume_image/Sara_image.jpeg" class="img-eva"> -->
-                        <img src="@/assets/resume_image/Weilun_image.jpg" class="img-eva">
+                        <img src="@/assets/resume_image/Sara_image.jpeg" class="img-eva">
+                        <!-- <img src="@/assets/resume_image/Weilun_image.jpg" class="img-eva"> -->
                         <h4>Prof. Sara Dolnicar</h4>
                          <span style="font-size: 14px; color: Dodgerblue;">
                         <i class="fa fa-quote-left col-sm-2"></i>
                         </span>
-                        <p>Weilun is a reliable problem solver, always keep constantly high productivity. During the one year project, our project has been deployed in the cloud platform. I am really satisfied and anticipated about the potential of our benchmark analysis application. Without Weilun our project couldn’t have developed so smoothly.  <span style="font-size: 14px; color: Dodgerblue;"><i class="fa fa-quote-right "></i></span></p>
+                        <p>Weilun is a reliable problem solver, who productively contributed to the work on a continuous basis
+                        throughout the lifetime of the project, until he and his group brought it to a successful completion. The
+                        project has been deployed in the cloud platform.  <span style="font-size: 14px; color: Dodgerblue;"><i class="fa fa-quote-right "></i></span></p>
                     </div>
                 </div>
                 <div class="col-sm-3">
