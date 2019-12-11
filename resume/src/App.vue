@@ -54,10 +54,10 @@
                     <blockquote>Master degree of Information Technology</blockquote>
 
                   <ul>
-                        <li>Algorithm & Data Structure</li>
-                        <li>Web Information System</li>
-                        <li>Computer Networks</li>
-                        <li>Relational Database System</li>
+                        <li>Algorithm & Data Structure (Java/Python)</li>
+                        <li>Web Information System (PHP)</li>
+                        <li>Computer Networks (TCP/IP)</li>
+                        <li>Relational Database System (MySQL/PostgreSQL)</li>
                       </ul>
                 </div>
             </div>
@@ -155,7 +155,7 @@
                             <div class="timeline-label">
                                 <h4>Feb 2019 – Nov 2019  - Benchmark Analysis Website</h4>
                                 <blockquote>Volunteer position as Full Stack Developer and Team Leader</blockquote>
-                                <p><strong>Description:</strong> Design, implement, development, deployment actual website in cloud platform.</p>
+                                <p><strong>Description:</strong> Design, implement, development, deployment actual website in cloud platform. </p>
                                 <p class="article-title">
                                   <strong>My skills:</strong> PHP, Laravel, Vue, MySQL, PostgreSQL, Amazon S3, Amazon Website Service, Heroku Cloud Platform, CSS, JavaScript, Bootstrap4, Homestead, Vagrant Virtual Box, Restful API
                                 </p>
