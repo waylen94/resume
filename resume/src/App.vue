@@ -104,6 +104,7 @@
 
                     <div class="timeline-centered">
 
+
                     <article class="timeline-entry">
 
                         <div class="timeline-entry-inner">
@@ -113,7 +114,35 @@
                             </div>
 
                             <div class="timeline-label">
-                                <h4>Oct 2019 - Now FreeCodeCamp Organization</h4>
+                                <h4>Jan 2020 - Now Merchant Warrior</h4>
+                                <blockquote>Web Developer </blockquote>
+                                <p>
+                                    <strong>Description:</strong> 
+                                    As a Full-Stack Developer, I implemented ISO8583 based acquiers like CuscalAS2805, Amex and Discover from Direct API to Clearing file.
+                                    I also implemented with payment gateways,including MasterCard Payment GateWay Service (MPGS), TILL Payment.
+                                    I have maintained with serveral payment gateways, which consist of Cuscal, MIGS and Qvalent.
+                                    Intergrate with Multiple digital wallets, such as GooglePay and ApplePay. (Especially, I developed PHP GooglePay processor decryptor)
+                                    I integrate ClearHus providerd 3DS2.0 service with the present product.
+                                    I implemented WEB-SDK, and Android-SDK, including GooglePay and 3DS2.0
+                                </p>
+                                <p>
+                                  <strong>My Skills:</strong> Laravel, PHP, HTTP, JQuery, MySQL
+                                </p>
+                            </div>
+                        </div>
+
+                    </article>
+
+                    <article class="timeline-entry">
+
+                        <div class="timeline-entry-inner">
+
+                            <div class="timeline-icon bg-info">
+                                <i class="entypo-feather"></i>
+                            </div>
+
+                            <div class="timeline-label">
+                                <h4>Oct 2019 - Dec 2019 FreeCodeCamp Organization</h4>
                                 <blockquote>Volunteer position as GitHub Contributor </blockquote>
                                 <p><strong>Description:</strong> Translating and sharing technical articles</p>
                                 <p>
@@ -134,7 +163,7 @@
                             </div>
 
                             <div class="timeline-label">
-                                <h4>Oct 2019 - Now Global Capstone Project with SKKU in South Korean</h4>
+                                <h4>Oct 2019 - Dec 2019 Global Capstone Project with SKKU in South Korean</h4>
                                 <blockquote>Volunteer position as Research Fellows</blockquote>
                                 <p><strong>Description: </strong>Integrating computer vision libraries (OpenCV) with machine learning (Deep learning, enforcement learning, neural network based Tensor flow) optimization.</p>
                                 <p><strong>My Skills:</strong> Research ability, Python, Open-CV libraries, Tensor Flow Libraries, Inspyred-Genetic-Algorithm Libraries.
