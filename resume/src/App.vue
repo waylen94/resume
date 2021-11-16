@@ -122,7 +122,7 @@
                                     I also implemented with payment gateways,including MasterCard Payment GateWay Service (MPGS), TILL Payment.
                                     I have maintained with serveral payment gateways, which consist of Cuscal, MIGS and Qvalent.
                                     Intergrate with Multiple digital wallets, such as GooglePay and ApplePay. (Especially, I developed PHP GooglePay processor decryptor)
-                                    I integrate ClearHus providerd 3DS2.0 service with the present product.
+                                    I integrated ClearHus providerd 3DS2.0 service with the present product.
                                     I implemented WEB-SDK, and Android-SDK, including GooglePay and 3DS2.0
                                 </p>
                                 <p>
