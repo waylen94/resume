@@ -13,7 +13,7 @@
                         <li><a href="https://github.com/waylen94" class="icoGitbub" title="Github" target="view_window"><i class="fa fa-github"></i></a></li>
                         <li><a href="https://www.facebook.com/profile.php?id=100010737480591" class="icoFacebook" title="Facebook" target="view_window"><i class="fa fa-facebook" target="view_window"></i></a></li>
 
-                        <li><a href="https://www.linkedin.com/in/玮伦-刘-23343418b/" class="icoLinkedin" title="Linkedin" target="view_window"><i class="fa fa-linkedin"></i></a></li>
+                        <li><a href="https://www.linkedin.com/in/weilun-liu-23343418b" class="icoLinkedin" title="Linkedin" target="view_window"><i class="fa fa-linkedin"></i></a></li>
                         <li><a href="https://waylen94.github.io/Diary/" class="icoDiary" title="Diary" target="view_window"><i class="fa fa-calendar"></i></a></li>
 
                     </ul>
